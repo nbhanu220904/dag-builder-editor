@@ -1,7 +1,10 @@
 # ⚙️ DAG Builder Editor – Nexstem Frontend Intern Assignment
 A React-based **Pipeline Editor** for building and validating Directed Acyclic Graphs (DAGs) visually. Inspired by real-time data flow tools like Apache Airflow and Prefect, this lightweight DAG builder allows users to create nodes, draw connections, validate graphs, and auto-layout pipelines—all in the browser.
 
-![Editor UI](https://github.com/user-attachments/assets/347eb655-515e-48e7-91d4-0fac9d0e1ec9)
+![Editor UI](https://github.com/user-attachments/assets/4b3f30cd-b35c-480e-881b-05b7374569b8)
+
+
+
 
 ---
 
